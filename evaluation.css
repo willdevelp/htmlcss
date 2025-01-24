@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+}
+
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+
+li{
+    color: White;
+}
+
+.special{
+    border: 2px solid;
+    background-color: gray;
+    width: 60px;
+    padding: 5px;
+}
+
+#first{
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+}

@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(148, 161, 161);
+}
+
+.box{
+    border: 1px solid;
+    color: white;
+}
+
+.box-highlight{
+    color: blue;
+}
+
+.list-item{
+    color: greenyellow;
+}
+
+div{
+    margin: 10px;
+}
+
+p{
+    color: red;
+}

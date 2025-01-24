@@ -1,0 +1,20 @@
+#lorem{
+    font-weight: bold;
+}
+
+.lorem1{
+    font-style: italic;
+}
+
+.item-highlight{
+    color:  blue;
+}
+
+*[class^="a"]{
+    background-color: yellow;
+}
+
+*[class$="date"]{
+    background-color: green;
+}
+
